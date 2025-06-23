@@ -6,12 +6,12 @@
  + Lightweight, no need to download or install anything
  + Responsive, ease of use on both PC and Smartphones
  + Start, Stop and Reset button
- + Simply click the live demo link on the right side, in the "About" section, and use it at your own will!
+ + Simply click the live demo link on the right side above, in the "About" section, and use it at your own will!
  + You can also use it as a normal stopwatch
 
 ### How to run the app on your phone (or PC!)
 
-1. Click the live demo link on the right side, in the "About" section
+1. Click the live demo link on the right side above, in the "About" section
 2. Hit "Start" when you go outside
 3. Use "Stop" button once you are back inside, and you can see that you tracked your grass-touching duration!
 4. Once you hit "Reset" button, you can make up your mind and challenge yourself to spend more time outdoors
