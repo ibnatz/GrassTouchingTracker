@@ -9,7 +9,7 @@
  + Simply click the live demo link on the right side, in the "About" section, and use it at your own will!
  + You can also use it as a normal stopwatch
 
-### How to run the app on your phone
+### How to run the app on your phone (or PC!)
 
 1. Click the live demo link on the right side, in the "About" section
 2. Hit "Start" when you go outside
